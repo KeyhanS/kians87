@@ -1,0 +1,10 @@
+@font-face {
+    font-family: dana;
+    src: url('/DanaFaNum-Regular.woff') format('woff');
+    font-weight: normal;
+}
+@font-face {
+    font-family: dana;
+    src: url('/DanaFaNum-Bold.woff') format('woff');
+    font-weight: bold;
+}
